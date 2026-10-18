@@ -18,7 +18,7 @@ That work is private. What I publish here are small, generic open-source tools b
 
 | Project | What it does |
 |---|---|
-| **shopify-wbr** *(public release soon)* | Turns a Shopify orders export into a weekly business review (HTML/PDF) in one command, with an optional LLM-written summary. |
+| [**shopify-wbr**](https://github.com/madebysid/shopify-wbr) | Turns a Shopify orders export into a weekly business review (HTML/PDF) in one command, with an optional LLM-written summary. |
 | [aimusicgen](https://github.com/madebysid/aimusicgen) | Hand-controlled arpeggiator, drum machine and real-time visualizer, built as a side experiment. |
 
 ### Find me
