@@ -19,6 +19,7 @@ That work is private. What I publish here are small, generic open-source tools b
 | Project | What it does |
 |---|---|
 | [**Shopify Weekly Business Review**](https://madebysid.github.io/shopify-wbr/) · [code](https://github.com/madebysid/shopify-wbr) | Drop in a Shopify orders export and get a weekly business review in seconds: revenue, AOV, refunds by product, top products, ROAS and a written summary. It runs entirely in the browser, with no sign-up and no data uploaded. **[Try it live →](https://madebysid.github.io/shopify-wbr/)** |
+| [**Store P&L Analyst**](https://madebysid.github.io/store-pnl-analyst/) · [code](https://github.com/madebysid/store-pnl-analyst) | An AI CFO for online stores. Upload a monthly P&L CSV and get margins, variance vs last month, an EBITDA bridge, unit economics and cash flags, and CFO-style commentary. It runs in the browser; an AI note is optional with your own key. **[Try it live →](https://madebysid.github.io/store-pnl-analyst/?sample)** |
 | [aimusicgen](https://github.com/madebysid/aimusicgen) | Hand-controlled arpeggiator, drum machine and real-time visualizer, built as a side experiment. |
 
 ### Find me
